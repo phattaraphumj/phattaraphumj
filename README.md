@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phattaraphum Jamroensuk</h1>
-<h3 align="center">I'm currently studying Computer Engineering at Chulalongkorn University.</h3>
+<h3 align="center">I'm currently studying Computer Engineering at Chulalongkorn University (CP51)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
